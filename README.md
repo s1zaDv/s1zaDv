@@ -41,9 +41,6 @@
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="https://s1zadv.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-915626?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
   <a href="https://www.instagram.com/s1zacodes">
     <img src="https://img.shields.io/badge/Instagram-915626?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
