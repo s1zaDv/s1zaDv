@@ -47,13 +47,6 @@ Alguns projetos que desenvolvi e que fazem parte da minha jornada na programaç�
 - [**Jogo do Número Secreto**](https://github.com/s1zaDv/jogo-numero-secreto) — jogo de adivinhação com números aleatórios.
 - [**DollarConvert**](https://github.com/s1zaDv/converter-dolar) — conversor de dólares para reais utilizando JavaScript.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s1zaDv&show_icons=true&theme=gruvbox&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1zaDv&layout=compact&theme=gruvbox&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-</p>
-
 ### 📫 Onde me encontrar
 
 <p align="left">
