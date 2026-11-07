@@ -6,9 +6,9 @@
   <a href="https://s1zadv.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Meu_Portfólio-915626?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://github.com/s1zaDv">
-    <img src="https://img.shields.io/badge/GitHub-0D0A07?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+ <a href="https://www.linkedin.com/in/júlio-caetano-098222381/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 <p align="center">
@@ -37,15 +37,6 @@
   <img src="https://img.shields.io/badge/Git-915626?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-915626?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-### 🚀 Projetos
-
-Alguns projetos que desenvolvi e que fazem parte da minha jornada na programação:
-
-- [**Meu Portfólio**](https://s1zadv.github.io/portfolio/) — apresentação dos meus trabalhos com programação, design e edição.
-- [**Jogo Matemático**](https://github.com/s1zaDv/jogo-matematico) — jogo de perguntas matemáticas desenvolvido com JavaScript.
-- [**Jogo do Número Secreto**](https://github.com/s1zaDv/jogo-numero-secreto) — jogo de adivinhação com números aleatórios.
-- [**DollarConvert**](https://github.com/s1zaDv/converter-dolar) — conversor de dólares para reais utilizando JavaScript.
 
 ### 📫 Onde me encontrar
 
