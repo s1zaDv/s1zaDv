@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o s1za!</h1>
 
-<h3 align="center">Front-end Developer em formação</h3>
+<h3 align="center">Full-stack Developer em formação</h3>
 
 <p align="center">
   <a href="https://s1zadv.github.io/portfolio/">
