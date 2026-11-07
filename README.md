@@ -19,11 +19,11 @@
 
 ### 👨‍💻 Sobre mim
 
-- Desenvolvedor Front-end em formação, com técnico em Informática para Internet pelo SENAC.
+- Desenvolvedor Full-stack em formação, com técnico em Informática para Internet pelo SENAC.
 - Tenho interesse em programação, tecnologia e desenvolvimento web.
-- Trabalho principalmente com HTML, CSS e JavaScript.
+- Trabalho principalmente com HTML, CSS, JavaScript e SQL.
 - Também exploro design, criação de landing pages e edição de vídeo.
-- Atualmente, estou aprofundando meus conhecimentos em JavaScript e lógica de programação.
+- Atualmente, estou aprofundando meus conhecimentos em Java e Banco de Dados.
 
 ### 🛠️ Tecnologias e ferramentas
 
